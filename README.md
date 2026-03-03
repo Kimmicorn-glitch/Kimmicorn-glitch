@@ -1,90 +1,87 @@
-<!-- Header + Intro -->
-<div align="center">
-  <h1>Kimmy (Kimmicorn-glitch) 👩‍💻</h1>
-  <p>Software Engineering Student | Full Stack Maker | Systems & AI Tool Builder</p>
-</div>
+# 🧠 Kimmy (Kimmicorn-glitch)
+
+Developer focused on building systems, tools, agents, AI utilities, and full-stack applications using modern languages and frameworks.
 
 ---
 
-## Badges 
-[![An image of @kimmicornglitch's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/kimmicornglitch)](https://holopin.io/@kimmicornglitch)
+## 💻 Languages & Frameworks I Code In
 
-## 🚀 GitHub Stats
+### 🛠 Primary Programming Languages
+![Python](https://img.shields.io/badge/Python-3.x-3776AB?logo=python&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-4.x-3178C6?logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-ES6-F7DF1E?logo=javascript&logoColor=black)
+![C#](https://img.shields.io/badge/C%23-8.0-239120?logo=csharp&logoColor=white)
+![Solidity](https://img.shields.io/badge/Solidity-0.8-363636?logo=solidity&logoColor=white)
+![Rust](https://img.shields.io/badge/Rust-1.x-000000?logo=rust&logoColor=white)
 
-![Kimmy's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Kimmicorn-glitch&show_icons=true&theme=dark)
+*(These reflect the languages you’ve used in your public repos or requested to highlight.)*
 
-![Top Languages Used](https://github-readme-stats.vercel.app/api/top-langs/?username=Kimmicorn-glitch&layout=compact&theme=dark)
+---
 
+## 🧠 Frameworks & Libraries
+
+**Frontend / Full-Stack**
+![React](https://img.shields.io/badge/React-17.x-61DAFB?logo=react&logoColor=black)
+TypeScript + React stacks (in projects like ServiceConnect, Educore, DebugOps-Agent)
+
+**Backend / Tooling**
+Node.js • Express • Flask • Django (common backend stacks in projects)
+
+**Game Development**
+Unity + C# (in *DeadPixel*)
+
+---
+
+## 📊 Dynamic GitHub Stats
+
+<!-- Auto-generated language card (shows top languages used in public repos) -->
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Kimmicorn-glitch&layout=compact&theme=dark)
+
+<!-- GitHub summary stats -->
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Kimmicorn-glitch&show_icons=true&theme=dark)
+
+<!-- Streak / contribution activity -->
 ![GitHub Streak](https://streak-stats.demolab.com/?user=Kimmicorn-glitch&theme=dark)
 
-🏆  
-[![GitHub Trophy](https://github-profile-trophy.vercel.app/?username=Kimmicorn-glitch&theme=dark)](https://github.com/ryo-ma/github-profile-trophy)
+---
+
+## 📁 Notable Public Projects
+
+### TypeScript / JS Projects  
+- **Quincy-Maestro** — core project  
+- **Decision-Gate** — governance AI multi-agent system  
+- **EPICRISIS** — AI text interpretation and explanation  
+- **DebugOps-Agent** — autonomous debugging agent  
+- **Educore** — learning toolset  
+- **Solar-Neighbors** — energy project  
+- **Sihle** — side project
+
+### Python Projects  
+- **A2AWalkthrough** — Python walkthrough  
+- **Assesment-practice-** — exercises  
+- `image_to_ascii`, `Py-Sort`, `sort-quest`, `Wrestling_simulator` — utilities and libraries
+
+### Other Work  
+- **DeadPixel** — Unity C# game  
+- **Siyakhanya** — power calculator
+
+*(Private repos and forks omitted from dynamic stats but you can link them manually if you want to showcase them.)*
 
 ---
 
-## 📂 Featured Public Projects
+## What This Says About Me
 
-### TypeScript / JavaScript Projects
+I’m proficient in:
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Kimmicorn-glitch&repo=Quincy-Maestro)](https://github.com/Kimmicorn-glitch/Quincy-Maestro)  
-**Quincy-Maestro** – (TypeScript) Flagship project — work in progress
+**Backend Languages**: Python, TypeScript, JavaScript, Solidity  
+**Systems & Tools**: Rust, Node.js  
+**Frontend**: React  
+**Game & Interactive Dev**: Unity + C#  
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Kimmicorn-glitch&repo=Decision-Gate)](https://github.com/Kimmicorn-glitch/Decision-Gate)  
-**Decision-Gate** – governance-enforced multi-agent decision system
-
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Kimmicorn-glitch&repo=EPICRISIS)](https://github.com/Kimmicorn-glitch/EPICRISIS)  
-**EPICRISIS** – AI-driven text interpretation and explanation app
-
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Kimmicorn-glitch&repo=DebugOps-Agent)](https://github.com/Kimmicorn-glitch/DebugOps-Agent)  
-**DebugOps-Agent** – autonomous debugging agent + command centre
-
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Kimmicorn-glitch&repo=Educore)](https://github.com/Kimmicorn-glitch/Educore)  
-**Educore** – educational toolset
+I use each language where it makes the most sense for the problem, not just because it’s trendy.
 
 ---
 
-## 🧪 Python Projects
+## 📫 Let’s Work Together
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Kimmicorn-glitch&repo=A2AWalkthrough)](https://github.com/Kimmicorn-glitch/A2AWalkthrough)  
-**A2AWalkthrough** – advanced Python walkthrough
-
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Kimmicorn-glitch&repo=Assesment-practice-)](https://github.com/Kimmicorn-glitch/Assesment-practice-)  
-**Assesment-practice-** – Python exercises repository
-
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Kimmicorn-glitch&repo=image_to_ascii)](https://github.com/Kimmicorn-glitch/image_to_ascii)  
-**image_to_ascii** – advanced text-to-ASCII generator
-
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Kimmicorn-glitch&repo=Py-Sort)](https://github.com/Kimmicorn-glitch/Py-Sort)  
-**Py-Sort** – forked Python sorting library
-
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Kimmicorn-glitch&repo=sort-quest)](https://github.com/Kimmicorn-glitch/sort-quest)  
-**sort-quest** – Python sorting & search utilities
-
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Kimmicorn-glitch&repo=Wrestling_simulator)](https://github.com/Kimmicorn-glitch/Wrestling_simulator)  
-**Wrestling_simulator** – Python wrestling simulator logic
-
----
-
-## 🎮 Other Public Work
-
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Kimmicorn-glitch&repo=Sihle)](https://github.com/Kimmicorn-glitch/Sihle)  
-**Sihle** – side-project
-
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Kimmicorn-glitch&repo=DeadPixel)](https://github.com/Kimmicorn-glitch/DeadPixel)  
-**DeadPixel** – first Unity C# game
-
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Kimmicorn-glitch&repo=Solar-Neighbors)](https://github.com/Kimmicorn-glitch/Solar-Neighbors)  
-**Solar-Neighbors** – energy-focused tool
-
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Kimmicorn-glitch&repo=Siyakhanya)](https://github.com/Kimmicorn-glitch/Siyakhanya)  
-**Siyakhanya** – calculator for affordable formal power planning
-
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Kimmicorn-glitch&repo=entry_test)](https://github.com/Kimmicorn-glitch/entry_test)  
-**entry_test** – onboarding tests for ABC membership
-
----
-
-## 📫 Connect
-
-Reach out, collaborate, or talk ideas!  
-[https://github.com/Kimmicorn-glitch](https://github.com/Kimmicorn-glitch)
+Find me here on GitHub or shoot a message if you want to collaborate on tools, bots, or systems engineered for impact.
